@@ -1,0 +1,2192 @@
+2015-03-02 11:42:11 ui.Login [line:30] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-02 11:42:15 db.LoginCheckServie [line:15] 
+INFO [AWT-EventQueue-0] 执行查询[Ljava.lang.String;@b6d6ab
+2015-03-02 11:42:15 service.DbService [line:44] 
+ERROR[AWT-EventQueue-0] 数据连接初始化失败，失败信息:The url cannot be null
+2015-03-02 11:42:15 service.DbService [line:48] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-02 11:42:42 ui.Login [line:30] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-02 11:42:43 db.LoginCheckServie [line:15] 
+INFO [AWT-EventQueue-0] 执行查询[Ljava.lang.String;@b533b8
+2015-03-02 11:42:44 service.DbService [line:48] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-02 11:42:45 ui.Login [line:150] 
+INFO [AWT-EventQueue-0] 登录失败！请检查用户名、密码是否输入正确!
+2015-03-02 11:51:59 ui.Login [line:30] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-02 11:52:03 db.LoginCheckServie [line:15] 
+INFO [AWT-EventQueue-0] 执行查询[Ljava.lang.String;@1c7865b
+2015-03-02 11:52:03 service.DbService [line:48] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-02 11:52:04 ui.Login [line:150] 
+INFO [AWT-EventQueue-0] 登录失败！请检查用户名、密码是否输入正确!
+2015-03-02 11:56:44 ui.Login [line:30] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-02 11:56:47 db.LoginCheckServie [line:15] 
+INFO [AWT-EventQueue-0] 执行查询[Ljava.lang.String;@b51404
+2015-03-02 11:56:47 service.DbService [line:48] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-02 11:56:48 ui.Login [line:190] 
+INFO [AWT-EventQueue-0] 登录失败！请检查用户名、密码是否输入正确!
+2015-03-02 11:56:51 db.LoginCheckServie [line:15] 
+INFO [AWT-EventQueue-0] 执行查询[Ljava.lang.String;@151b0a5
+2015-03-02 11:56:52 ui.Login [line:190] 
+INFO [AWT-EventQueue-0] 登录失败！请检查用户名、密码是否输入正确!
+2015-03-02 11:56:57 ui.Login [line:30] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-02 11:57:02 db.LoginCheckServie [line:15] 
+INFO [AWT-EventQueue-0] 执行查询[Ljava.lang.String;@457d21
+2015-03-02 11:57:02 service.DbService [line:48] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-02 11:57:03 ui.Login [line:189] 
+INFO [AWT-EventQueue-0] 登录失败！请检查用户名、密码是否输入正确!
+2015-03-02 11:57:40 ui.Login [line:30] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-02 11:57:42 db.LoginCheckServie [line:15] 
+INFO [AWT-EventQueue-0] 执行查询[Ljava.lang.String;@3468f4
+2015-03-02 11:57:42 service.DbService [line:48] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-02 11:57:43 ui.Login [line:189] 
+INFO [AWT-EventQueue-0] 登录失败！请检查用户名、密码是否输入正确!
+2015-03-02 11:57:44 db.LoginCheckServie [line:15] 
+INFO [AWT-EventQueue-0] 执行查询[Ljava.lang.String;@9b688e
+2015-03-02 11:57:45 ui.Login [line:189] 
+INFO [AWT-EventQueue-0] 登录失败！请检查用户名、密码是否输入正确!
+2015-03-02 11:57:56 ui.Login [line:30] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-02 11:58:03 ui.Login [line:30] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-02 11:58:05 db.LoginCheckServie [line:15] 
+INFO [AWT-EventQueue-0] 执行查询[Ljava.lang.String;@569c60
+2015-03-02 11:58:05 service.DbService [line:48] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-02 11:58:06 ui.Login [line:189] 
+INFO [AWT-EventQueue-0] 登录失败！请检查用户名、密码是否输入正确!
+2015-03-02 11:58:12 ui.Login [line:30] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-02 11:58:14 db.LoginCheckServie [line:15] 
+INFO [AWT-EventQueue-0] 执行查询[Ljava.lang.String;@186dda3
+2015-03-02 11:58:14 service.DbService [line:48] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-02 11:58:15 ui.Login [line:189] 
+INFO [AWT-EventQueue-0] 登录失败！请检查用户名、密码是否输入正确!
+2015-03-02 11:58:17 db.LoginCheckServie [line:15] 
+INFO [AWT-EventQueue-0] 执行查询[Ljava.lang.String;@15d601f
+2015-03-02 11:58:18 ui.Login [line:189] 
+INFO [AWT-EventQueue-0] 登录失败！请检查用户名、密码是否输入正确!
+2015-03-02 11:58:30 ui.Login [line:30] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-02 11:58:33 db.LoginCheckServie [line:15] 
+INFO [AWT-EventQueue-0] 执行查询[Ljava.lang.String;@11410e5
+2015-03-02 11:58:34 service.DbService [line:48] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-02 11:58:34 ui.Login [line:188] 
+INFO [AWT-EventQueue-0] 登录失败！请检查用户名、密码是否输入正确!
+2015-03-02 11:58:36 db.LoginCheckServie [line:15] 
+INFO [AWT-EventQueue-0] 执行查询[Ljava.lang.String;@fdfc58
+2015-03-02 11:58:37 ui.Login [line:188] 
+INFO [AWT-EventQueue-0] 登录失败！请检查用户名、密码是否输入正确!
+2015-03-02 11:58:38 db.LoginCheckServie [line:15] 
+INFO [AWT-EventQueue-0] 执行查询[Ljava.lang.String;@775121
+2015-03-02 11:58:39 ui.Login [line:188] 
+INFO [AWT-EventQueue-0] 登录失败！请检查用户名、密码是否输入正确!
+2015-03-02 12:02:15 ui.Login [line:30] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-02 12:02:21 db.LoginCheckServie [line:15] 
+INFO [AWT-EventQueue-0] 执行查询[Ljava.lang.String;@61373f
+2015-03-02 12:02:21 service.DbService [line:48] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-02 12:02:22 ui.Login [line:188] 
+INFO [AWT-EventQueue-0] 登录失败！请检查用户名、密码是否输入正确!
+2015-03-02 12:02:27 db.LoginCheckServie [line:15] 
+INFO [AWT-EventQueue-0] 执行查询[Ljava.lang.String;@f449b8
+2015-03-02 12:02:27 ui.Login [line:188] 
+INFO [AWT-EventQueue-0] 登录失败！请检查用户名、密码是否输入正确!
+2015-03-02 13:36:52 ui.Login [line:30] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-02 13:36:55 db.LoginCheckServie [line:15] 
+INFO [AWT-EventQueue-0] 执行查询[Ljava.lang.String;@1412e75
+2015-03-02 13:36:55 service.DbService [line:48] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-02 13:36:56 ui.Login [line:188] 
+INFO [AWT-EventQueue-0] 登录失败！请检查用户名、密码是否输入正确!
+2015-03-02 13:44:11 ui.Login [line:30] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-02 13:44:13 db.LoginCheckServie [line:15] 
+INFO [AWT-EventQueue-0] 执行查询[Ljava.lang.String;@e22f2b
+2015-03-02 13:44:13 service.DbService [line:48] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-02 13:50:16 ui.Login [line:33] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-02 13:50:20 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-02 14:01:47 ui.users.Login [line:34] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-02 14:01:52 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-02 14:02:08 ui.users.Login [line:34] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-02 14:02:12 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-02 14:10:51 ui.users.Login [line:34] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-02 14:11:01 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-02 14:11:40 ui.users.Login [line:34] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-02 14:11:51 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-02 14:34:12 ui.users.Login [line:34] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-02 14:34:15 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-02 14:35:24 ui.users.Login [line:34] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-02 14:35:32 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-02 14:38:11 ui.users.Login [line:34] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-02 14:38:18 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-02 14:38:40 ui.users.Login [line:34] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-02 14:38:51 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-02 14:41:29 ui.users.Login [line:34] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-02 14:41:39 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-02 14:41:58 ui.users.Login [line:34] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-02 14:42:05 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-02 14:46:27 ui.users.Login [line:34] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-02 14:46:34 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-02 14:56:35 ui.users.Login [line:36] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-02 14:56:44 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-02 15:04:25 ui.users.Login [line:36] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-02 15:04:34 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-03 08:37:41 ui.users.Login [line:38] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-03 08:37:44 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-03 08:42:31 ui.users.Login [line:38] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-03 08:42:33 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-03 08:48:53 ui.users.Login [line:38] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-03 08:49:00 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-03 08:55:42 ui.users.Login [line:38] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-03 08:55:48 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-03 09:51:48 ui.users.Login [line:38] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-03 09:51:56 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 09:43:36 service.DbService [line:61] 
+ERROR[AWT-EventQueue-0] 数据连接初始化失败，失败信息:Io 异常: The Network Adapter could not establish the connection
+2015-03-04 09:43:36 service.DbService [line:65] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 09:45:10 service.DbService [line:65] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 09:50:34 service.DbService [line:65] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 09:51:22 service.DbService [line:65] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 09:57:36 service.DbService [line:65] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 09:58:34 service.DbService [line:65] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 10:01:59 service.DbService [line:65] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 10:23:16 service.DbService [line:66] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 10:24:15 service.DbService [line:66] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 10:24:54 service.DbService [line:66] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 10:45:35 service.DbService [line:66] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 10:47:06 service.DbService [line:66] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 10:49:05 service.DbService [line:66] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 11:11:11 ui.users.Login [line:38] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-04 11:11:17 service.DbService [line:66] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 11:12:55 ui.users.Login [line:37] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-04 11:13:02 service.DbService [line:66] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 11:13:14 ui.users.Login [line:37] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-04 11:13:25 service.DbService [line:66] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 11:13:32 ui.users.Login [line:37] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-04 11:13:53 service.DbService [line:66] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 11:32:46 ui.users.Login [line:37] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-04 11:32:53 service.DbService [line:66] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 11:34:14 service.DbService [line:66] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 11:36:59 service.DbService [line:66] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 11:39:28 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 12:10:21 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 12:13:34 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 12:16:49 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 12:17:30 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 12:18:13 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 12:19:45 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 12:20:17 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 12:27:40 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 12:48:20 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 12:49:03 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 12:50:42 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 12:52:05 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 12:52:55 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 12:54:12 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 12:54:45 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 12:57:49 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 12:59:41 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 13:00:06 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 13:00:09 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 13:00:58 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 13:01:44 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 13:43:24 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 13:45:17 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 13:45:43 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 13:46:32 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 13:47:32 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 13:47:44 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 13:47:48 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 13:49:20 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 13:50:45 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 13:51:18 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 13:52:11 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 14:02:08 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 14:04:21 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 14:05:17 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 14:06:42 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 14:07:23 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 14:08:15 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 14:11:10 ui.users.Login [line:37] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-04 14:11:13 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 14:12:52 service.DbService [line:72] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 14:12:52 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 14:12:58 service.DbService [line:88] 
+INFO [AWT-EventQueue-0] 写入商品出入库记录!
+2015-03-04 14:12:58 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 14:13:01 service.DbService [line:88] 
+INFO [AWT-EventQueue-0] 写入商品出入库记录!
+2015-03-04 14:13:02 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 14:15:15 ui.users.Login [line:37] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-04 14:15:21 service.DbService [line:41] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-04 14:15:21 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 14:15:24 service.DbService [line:72] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 14:15:29 service.DbService [line:88] 
+INFO [AWT-EventQueue-0] 写入商品出入库记录!
+2015-03-04 14:15:31 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 14:15:33 service.DbService [line:88] 
+INFO [AWT-EventQueue-0] 写入商品出入库记录!
+2015-03-04 14:15:33 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 14:15:35 service.DbService [line:88] 
+INFO [AWT-EventQueue-0] 写入商品出入库记录!
+2015-03-04 14:15:35 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 14:27:30 service.DbService [line:72] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 14:27:30 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 14:27:30 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 14:27:45 service.DbService [line:72] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 14:27:45 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 14:27:45 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 14:27:52 service.DbService [line:72] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 14:27:52 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 14:27:56 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 14:28:07 service.DbService [line:72] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 14:28:07 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 14:28:07 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 14:28:19 service.DbService [line:72] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 14:28:19 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 14:28:20 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 14:28:45 service.DbService [line:72] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 14:28:45 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 14:28:45 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 14:28:51 service.DbService [line:72] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 14:28:51 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 14:28:51 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 14:29:37 service.DbService [line:72] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 14:29:37 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 14:29:37 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 14:29:47 service.DbService [line:88] 
+INFO [AWT-EventQueue-0] 写入商品出入库记录!
+2015-03-04 14:29:48 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 15:09:31 service.DbService [line:72] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 15:09:31 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 15:09:31 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 15:09:40 ui.users.Login [line:37] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-04 15:09:45 service.DbService [line:41] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-04 15:09:45 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 15:09:54 service.DbService [line:41] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-04 15:09:57 service.DbService [line:72] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 15:09:57 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 15:10:09 service.DbService [line:72] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 15:10:09 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 15:13:34 service.DbService [line:72] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 15:13:34 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 15:13:34 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 15:13:47 service.DbService [line:72] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 15:13:47 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 15:13:49 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 15:15:00 service.DbService [line:72] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 15:15:00 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 15:15:00 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 15:15:12 service.DbService [line:72] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 15:15:12 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 15:15:12 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 15:15:19 service.DbService [line:72] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 15:15:19 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 15:15:19 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 15:15:41 service.DbService [line:72] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 15:15:42 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 15:15:42 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 15:15:53 service.DbService [line:88] 
+INFO [AWT-EventQueue-0] 写入商品出入库记录!
+2015-03-04 15:15:53 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 15:15:57 service.DbService [line:88] 
+INFO [AWT-EventQueue-0] 写入商品出入库记录!
+2015-03-04 15:15:58 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 15:25:47 ui.users.Login [line:37] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-04 15:25:54 service.DbService [line:41] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-04 15:25:54 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 15:25:57 service.DbService [line:72] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 15:25:57 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 15:26:48 service.DbService [line:72] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 15:26:48 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 15:26:48 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 15:27:45 service.DbService [line:72] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 15:27:45 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 15:27:45 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 15:32:23 service.DbService [line:72] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 15:32:23 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 15:32:23 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 15:34:06 service.DbService [line:72] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 15:34:06 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 15:34:06 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 15:34:22 service.DbService [line:88] 
+INFO [AWT-EventQueue-0] 写入商品出入库记录!
+2015-03-04 15:34:23 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 15:34:36 service.DbService [line:88] 
+INFO [AWT-EventQueue-0] 写入商品出入库记录!
+2015-03-04 15:34:36 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 15:38:07 service.DbService [line:72] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 15:38:07 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 15:38:07 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 15:38:18 service.DbService [line:88] 
+INFO [AWT-EventQueue-0] 写入商品出入库记录!
+2015-03-04 15:38:19 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 15:52:13 service.DbService [line:72] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 15:52:13 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 15:52:15 service.DbService [line:72] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 15:52:17 service.DbService [line:72] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 15:52:17 service.DbService [line:56] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 15:52:43 service.DbService [line:72] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 15:52:43 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 15:53:09 service.DbService [line:72] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 15:53:09 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 15:59:12 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 15:59:12 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 15:59:32 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 15:59:32 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 15:59:35 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 15:59:35 service.DbService [line:152] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：ORA-00904: "M_CREATORDT": 标识符无效
+
+2015-03-04 15:59:37 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 15:59:37 service.DbService [line:152] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：ORA-00904: "M_CREATORDT": 标识符无效
+
+2015-03-04 15:59:37 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 15:59:37 service.DbService [line:152] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：ORA-00904: "M_CREATORDT": 标识符无效
+
+2015-03-04 15:59:38 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 15:59:38 service.DbService [line:152] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：ORA-00904: "M_CREATORDT": 标识符无效
+
+2015-03-04 16:00:15 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:00:15 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:00:16 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:00:16 service.DbService [line:152] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：ORA-00904: "M_CREATORDT": 标识符无效
+
+2015-03-04 16:00:17 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:00:17 service.DbService [line:152] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：ORA-00904: "M_CREATORDT": 标识符无效
+
+2015-03-04 16:00:17 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:00:17 service.DbService [line:152] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：ORA-00904: "M_CREATORDT": 标识符无效
+
+2015-03-04 16:00:17 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:00:17 service.DbService [line:152] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：ORA-00904: "M_CREATORDT": 标识符无效
+
+2015-03-04 16:00:21 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:00:21 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:00:50 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:01:15 service.DbService [line:152] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：ORA-00904: "M_CREATORDT": 标识符无效
+
+2015-03-04 16:01:44 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:01:44 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:01:45 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:01:45 service.DbService [line:152] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：ORA-00904: "M_CREATDT": 标识符无效
+
+2015-03-04 16:02:06 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:02:06 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:02:07 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:02:42 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:02:42 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:02:43 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:02:50 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:02:53 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:02:53 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:04:12 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:04:12 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:04:23 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:06:09 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:07:12 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:07:12 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:07:13 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:07:17 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:07:17 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:07:31 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:08:26 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:08:26 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:08:29 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:09:32 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:09:32 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:09:35 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:09:37 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:09:40 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:09:42 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:09:48 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:09:52 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:09:52 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:09:52 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:09:53 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:09:55 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:09:55 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:09:55 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:10:26 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:10:27 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:10:28 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:11:21 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:11:21 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:11:24 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:11:25 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:11:25 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:11:25 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:11:25 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:11:26 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:11:26 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:11:26 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:11:28 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:11:30 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:11:32 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:11:36 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:12:02 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:12:02 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:12:04 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:12:41 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:12:41 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:13:13 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:13:14 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:13:15 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:13:22 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:13:28 ui.users.Login [line:37] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-04 16:13:35 service.DbService [line:41] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-04 16:13:35 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:13:37 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:13:37 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:13:43 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:13:44 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:15:50 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:15:50 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:15:53 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:15:54 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:16:48 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:16:48 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:16:56 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:16:56 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:16:58 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:20:05 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:20:05 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:20:07 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:20:30 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:20:30 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:22:19 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:22:19 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:22:19 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:22:29 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:22:30 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:22:30 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:22:30 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:22:46 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:22:46 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:23:23 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:23:25 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:24:00 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:24:00 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:24:01 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:24:07 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:24:08 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:25:22 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:25:22 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:25:27 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:25:36 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:25:36 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:25:45 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:27:49 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:27:49 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:27:56 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:27:56 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:28:03 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:28:06 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:28:32 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:29:06 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:29:06 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:29:14 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:29:14 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:29:20 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:29:20 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:29:22 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:29:23 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:29:23 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:29:23 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:29:23 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:29:24 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:29:24 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:29:24 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:29:24 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:32:41 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:32:41 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:33:00 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:33:19 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:33:19 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:33:29 service.DbService [line:61] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:46:51 service.DbService [line:94] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:46:51 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:46:54 service.DbService [line:58] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:46:54 service.DbService [line:154] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：无效的列索引
+2015-03-04 16:46:55 service.DbService [line:58] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:46:55 service.DbService [line:154] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：无效的列索引
+2015-03-04 16:46:55 service.DbService [line:58] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:46:55 service.DbService [line:154] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：无效的列索引
+2015-03-04 16:47:09 service.DbService [line:94] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:47:09 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:48:06 service.DbService [line:94] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:48:06 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:48:11 service.DbService [line:58] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:49:40 service.DbService [line:94] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:49:40 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:49:43 service.DbService [line:58] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:50:19 service.DbService [line:94] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:50:19 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:50:24 service.DbService [line:58] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:50:24 service.DbService [line:58] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:50:25 service.DbService [line:58] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:50:26 service.DbService [line:58] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:50:26 service.DbService [line:58] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:50:43 service.DbService [line:94] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:50:43 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:50:47 service.DbService [line:58] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:51:16 service.DbService [line:94] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:51:16 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:51:24 service.DbService [line:58] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:53:17 service.DbService [line:94] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 16:53:17 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 16:53:22 service.DbService [line:58] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:55:03 service.DbService [line:58] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:55:08 service.DbService [line:58] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:55:12 service.DbService [line:58] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 16:55:19 service.DbService [line:58] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:01:35 service.DbService [line:104] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 17:01:35 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 17:01:41 service.DbService [line:63] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:01:41 service.DbService [line:63] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:01:42 service.DbService [line:63] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:01:42 service.DbService [line:63] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:01:42 service.DbService [line:63] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:01:42 service.DbService [line:63] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:03:54 service.DbService [line:110] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 17:03:54 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 17:03:59 service.DbService [line:69] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:04:01 service.DbService [line:69] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:04:02 service.DbService [line:69] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:04:14 service.DbService [line:110] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 17:04:14 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 17:05:02 service.DbService [line:69] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:05:03 service.DbService [line:154] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：无效的列索引
+2015-03-04 17:06:03 service.DbService [line:69] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:06:28 service.DbService [line:154] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：无效的列索引
+2015-03-04 17:06:48 service.DbService [line:110] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 17:06:48 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 17:06:54 service.DbService [line:69] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:06:54 service.DbService [line:156] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：无效的列索引
+2015-03-04 17:07:08 service.DbService [line:110] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 17:07:08 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 17:07:21 service.DbService [line:69] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:07:44 service.DbService [line:156] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：无效的列索引
+2015-03-04 17:07:49 service.DbService [line:69] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:08:04 service.DbService [line:156] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：无效的列索引
+2015-03-04 17:08:28 service.DbService [line:110] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 17:08:28 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 17:08:48 service.DbService [line:110] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 17:08:48 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 17:08:57 service.DbService [line:69] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:09:26 service.DbService [line:69] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:10:33 service.DbService [line:156] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：无效的列索引
+2015-03-04 17:11:00 service.DbService [line:110] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 17:11:00 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 17:11:05 service.DbService [line:69] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:11:05 service.DbService [line:154] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：无效的列索引
+2015-03-04 17:11:11 service.DbService [line:110] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 17:11:12 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 17:11:23 service.DbService [line:69] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:11:35 service.DbService [line:69] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:14:37 service.DbService [line:116] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 17:14:37 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 17:14:42 service.DbService [line:75] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:14:42 service.DbService [line:154] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：无效的列索引
+2015-03-04 17:14:43 service.DbService [line:75] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:14:43 service.DbService [line:154] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：无效的列索引
+2015-03-04 17:14:43 service.DbService [line:75] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:14:43 service.DbService [line:154] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：无效的列索引
+2015-03-04 17:14:43 service.DbService [line:75] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:14:43 service.DbService [line:154] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：无效的列索引
+2015-03-04 17:14:44 service.DbService [line:75] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:14:44 service.DbService [line:154] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：无效的列索引
+2015-03-04 17:14:47 service.DbService [line:116] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 17:14:47 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 17:15:10 service.DbService [line:116] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 17:15:10 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 17:15:16 service.DbService [line:75] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:15:56 service.DbService [line:117] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 17:15:56 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 17:15:57 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:16:00 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:16:55 service.DbService [line:117] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 17:16:55 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 17:17:28 service.DbService [line:117] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 17:17:28 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 17:18:22 service.DbService [line:117] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 17:18:22 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 17:18:32 service.DbService [line:117] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 17:18:33 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 17:19:08 service.DbService [line:117] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 17:19:08 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 17:19:40 service.DbService [line:117] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 17:19:40 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 17:19:49 service.DbService [line:117] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 17:19:50 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 17:19:54 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:19:57 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:19:58 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:19:58 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:19:58 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:19:58 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:19:59 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:19:59 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:19:59 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:19:59 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:20:31 service.DbService [line:117] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 17:20:31 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 17:20:38 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:20:41 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:20:41 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:20:41 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:20:42 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:20:42 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:20:42 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:20:42 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:20:42 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:20:52 service.DbService [line:117] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 17:20:53 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 17:20:58 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:20:58 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:20:59 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:20:59 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:21:28 service.DbService [line:117] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 17:21:28 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 17:21:33 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:21:34 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:21:34 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:21:35 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:21:41 service.DbService [line:117] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 17:21:41 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 17:21:48 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:21:55 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:22:04 service.DbService [line:117] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 17:22:04 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 17:22:29 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:22:56 service.DbService [line:117] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 17:22:56 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 17:23:01 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:23:33 service.DbService [line:117] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 17:23:33 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 17:23:37 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:26:01 service.DbService [line:117] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 17:26:01 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 17:26:06 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:26:19 service.DbService [line:117] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 17:26:19 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 17:26:23 service.DbService [line:76] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:26:27 service.DbService [line:117] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 17:26:27 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 17:26:35 service.DbService [line:117] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-04 17:26:35 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-04 17:26:36 service.DbService [line:101] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-04 17:26:38 service.DbService [line:101] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-05 08:39:40 service.DbService [line:117] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 08:39:41 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 08:39:46 service.DbService [line:117] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 08:39:46 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 08:39:48 service.DbService [line:101] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-05 08:39:50 service.DbService [line:101] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-05 08:39:53 service.DbService [line:101] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-05 08:39:58 service.DbService [line:101] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-05 08:43:44 service.DbService [line:117] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 08:43:44 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 08:43:46 service.DbService [line:101] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-05 08:43:49 service.DbService [line:101] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-05 08:46:46 service.DbService [line:117] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 08:46:46 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 08:46:46 service.DbService [line:101] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-05 08:47:39 service.DbService [line:117] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 08:47:39 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 08:47:45 service.DbService [line:117] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 08:47:45 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 08:47:47 service.DbService [line:117] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 08:48:07 service.DbService [line:117] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 08:48:07 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 08:48:23 service.DbService [line:117] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 08:48:23 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 08:48:25 service.DbService [line:117] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 09:10:40 service.DbService [line:153] 
+INFO [AWT-EventQueue-0] 写入商品信息!
+2015-03-05 09:10:40 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 09:11:09 service.DbService [line:118] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 09:11:09 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 09:11:17 service.DbService [line:153] 
+INFO [AWT-EventQueue-0] 写入商品信息!
+2015-03-05 09:11:17 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 09:11:17 service.DbService [line:118] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 09:14:50 service.DbService [line:153] 
+INFO [AWT-EventQueue-0] 写入商品信息!
+2015-03-05 09:14:51 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 09:14:51 service.DbService [line:118] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 09:16:08 service.DbService [line:153] 
+INFO [AWT-EventQueue-0] 写入商品信息!
+2015-03-05 09:16:08 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 09:16:08 service.DbService [line:118] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 09:16:18 service.DbService [line:153] 
+INFO [AWT-EventQueue-0] 写入商品信息!
+2015-03-05 09:16:18 service.DbService [line:118] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 09:16:20 service.DbService [line:153] 
+INFO [AWT-EventQueue-0] 写入商品信息!
+2015-03-05 09:16:20 service.DbService [line:118] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 09:17:09 service.DbService [line:153] 
+INFO [AWT-EventQueue-0] 写入商品信息!
+2015-03-05 09:17:11 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 09:17:37 service.DbService [line:118] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 09:18:07 service.DbService [line:153] 
+INFO [AWT-EventQueue-0] 写入商品信息!
+2015-03-05 09:18:08 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 09:18:23 service.DbService [line:118] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 09:18:44 service.DbService [line:153] 
+INFO [AWT-EventQueue-0] 写入商品信息!
+2015-03-05 09:18:44 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 09:19:01 service.DbService [line:118] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 09:19:10 service.DbService [line:153] 
+INFO [AWT-EventQueue-0] 写入商品信息!
+2015-03-05 09:19:14 service.DbService [line:118] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 09:19:25 service.DbService [line:118] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 09:19:25 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 09:23:25 service.DbService [line:118] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 09:23:25 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 09:23:25 service.DbService [line:102] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-05 09:23:55 service.DbService [line:118] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 09:23:55 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 09:23:55 service.DbService [line:102] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-05 09:24:00 service.DbService [line:118] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 09:24:02 service.DbService [line:102] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-05 09:24:07 service.DbService [line:102] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-05 09:24:11 service.DbService [line:118] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 09:24:12 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-05 09:24:16 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-05 09:24:16 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-05 09:24:16 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-05 09:24:16 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-05 09:24:16 service.DbService [line:77] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-05 09:24:22 service.DbService [line:153] 
+INFO [AWT-EventQueue-0] 写入商品信息!
+2015-03-05 09:24:22 service.DbService [line:118] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 09:25:23 service.DbService [line:153] 
+INFO [AWT-EventQueue-0] 写入商品信息!
+2015-03-05 09:25:23 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 09:25:23 service.DbService [line:118] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 09:25:28 service.DbService [line:153] 
+INFO [AWT-EventQueue-0] 写入商品信息!
+2015-03-05 09:25:28 service.DbService [line:118] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 09:25:31 service.DbService [line:118] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 09:25:31 service.DbService [line:102] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-05 09:26:04 service.DbService [line:118] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 09:26:04 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 09:52:49 service.DbService [line:153] 
+INFO [AWT-EventQueue-0] 写入商品出入库记录!
+2015-03-05 09:52:49 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 09:52:54 service.DbService [line:153] 
+INFO [AWT-EventQueue-0] 写入商品出入库记录!
+2015-03-05 09:53:02 service.DbService [line:153] 
+INFO [AWT-EventQueue-0] 写入商品出入库记录!
+2015-03-05 09:53:02 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 09:53:11 service.DbService [line:153] 
+INFO [AWT-EventQueue-0] 写入商品出入库记录!
+2015-03-05 09:53:32 service.DbService [line:153] 
+INFO [AWT-EventQueue-0] 写入商品出入库记录!
+2015-03-05 10:22:00 ui.users.Login [line:39] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-05 10:22:17 service.DbService [line:45] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-05 10:22:17 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 10:23:54 ui.users.Login [line:39] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-05 10:23:56 service.DbService [line:45] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-05 10:23:56 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 10:24:04 service.DbService [line:119] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 10:24:20 ui.users.Login [line:39] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-05 10:24:27 service.DbService [line:45] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-05 10:24:27 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 10:24:46 ui.users.Login [line:39] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-05 10:24:51 service.DbService [line:45] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-05 10:24:51 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 10:25:08 ui.users.Login [line:39] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-05 10:25:10 service.DbService [line:45] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-05 10:25:10 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 10:25:23 service.DbService [line:119] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 10:25:36 ui.users.Login [line:39] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-05 10:25:45 service.DbService [line:45] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-05 10:25:45 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 10:26:46 ui.users.Login [line:39] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-05 10:26:49 service.DbService [line:45] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-05 10:26:49 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 10:27:43 ui.users.Login [line:39] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-05 10:27:45 service.DbService [line:45] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-05 10:27:45 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 10:33:02 ui.users.Login [line:39] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-05 10:33:04 service.DbService [line:45] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-05 10:33:04 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 11:19:18 ui.users.Login [line:39] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-05 11:19:20 service.DbService [line:45] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-05 11:19:20 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 11:20:10 ui.users.Login [line:39] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-05 11:20:15 service.DbService [line:45] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-05 11:20:15 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 11:20:18 service.DbService [line:119] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 11:26:50 ui.users.Login [line:39] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-05 11:26:52 service.DbService [line:45] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-05 11:26:52 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 11:28:13 ui.users.Login [line:39] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-05 11:28:15 service.DbService [line:45] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-05 11:28:15 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 11:28:20 service.DbService [line:119] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 11:40:27 ui.users.Login [line:39] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-05 11:40:29 service.DbService [line:52] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-05 11:40:29 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 11:40:38 ui.users.Login [line:39] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-05 11:40:46 service.DbService [line:52] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-05 11:40:46 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 11:40:52 service.DbService [line:37] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-05 11:40:57 service.DbService [line:160] 
+INFO [AWT-EventQueue-0] 写入商品出入库记录!
+2015-03-05 11:41:00 service.DbService [line:37] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-05 11:41:01 service.DbService [line:160] 
+INFO [AWT-EventQueue-0] 写入商品出入库记录!
+2015-03-05 11:41:32 ui.users.Login [line:39] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-05 11:41:38 service.DbService [line:52] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-05 11:41:38 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 11:41:43 service.DbService [line:37] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-05 11:41:48 service.DbService [line:37] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-05 11:41:50 service.DbService [line:37] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-05 11:42:04 ui.users.Login [line:39] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-05 11:42:09 service.DbService [line:52] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-05 11:42:10 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 11:42:16 service.DbService [line:37] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-05 11:42:16 service.DbService [line:160] 
+INFO [AWT-EventQueue-0] 写入商品出入库记录!
+2015-03-05 11:42:23 service.DbService [line:37] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-05 11:42:25 service.DbService [line:37] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-05 11:42:27 service.DbService [line:37] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-05 11:42:33 service.DbService [line:126] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 11:42:34 service.DbService [line:110] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-05 11:42:37 service.DbService [line:110] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-05 11:42:45 service.DbService [line:177] 
+INFO [AWT-EventQueue-0] 写入商品信息!
+2015-03-05 11:42:45 service.DbService [line:126] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 11:42:51 service.DbService [line:177] 
+INFO [AWT-EventQueue-0] 写入商品信息!
+2015-03-05 11:42:51 service.DbService [line:126] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 11:43:55 ui.users.Login [line:39] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-05 11:43:59 service.DbService [line:52] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-05 11:43:59 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-05 11:44:00 service.DbService [line:52] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-05 11:44:07 service.DbService [line:177] 
+INFO [AWT-EventQueue-0] 写入商品信息!
+2015-03-05 11:44:07 service.DbService [line:126] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 11:44:15 service.DbService [line:177] 
+INFO [AWT-EventQueue-0] 写入商品信息!
+2015-03-05 11:44:15 service.DbService [line:126] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 11:44:20 service.DbService [line:126] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 11:44:20 service.DbService [line:110] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-05 11:44:27 service.DbService [line:126] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 11:44:27 service.DbService [line:110] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-05 11:44:30 service.DbService [line:126] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 11:44:30 service.DbService [line:110] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-05 11:44:36 service.DbService [line:126] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 11:44:36 service.DbService [line:110] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-05 11:44:41 service.DbService [line:126] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-05 11:44:42 service.DbService [line:110] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-05 11:44:45 service.DbService [line:110] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-05 11:44:48 service.DbService [line:110] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-05 11:44:51 service.DbService [line:126] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-11 09:25:57 ui.users.Login [line:39] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-11 09:26:23 service.DbService [line:52] 
+INFO [AWT-EventQueue-0] 用户登录检查!
+2015-03-11 09:26:23 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 09:26:29 service.DbService [line:126] 
+INFO [AWT-EventQueue-0] 查询商品信息!
+2015-03-11 09:26:29 service.DbService [line:110] 
+INFO [AWT-EventQueue-0] 查询商品出入库记录!
+2015-03-11 10:02:38 ui.users.Login [line:39] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-11 10:04:14 ui.users.Login [line:39] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-11 10:05:13 ui.users.Login [line:39] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-11 10:05:23 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 10:05:56 ui.users.Login [line:39] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-11 10:06:04 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 10:06:48 ui.users.Login [line:39] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-11 10:06:54 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 10:09:04 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 10:10:16 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 10:10:28 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 10:11:47 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 10:12:39 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 10:13:23 ui.users.Login [line:39] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-11 10:13:29 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 10:14:51 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 10:15:04 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 10:15:48 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 10:15:52 service.DbService [line:199] 
+INFO [AWT-EventQueue-0] 01da0d9015a7423ab583748c38e2383d
+2015-03-11 10:15:59 service.DbService [line:199] 
+INFO [AWT-EventQueue-0] 01da0d9015a7423ab583748c38e2383d
+2015-03-11 10:16:09 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 10:16:32 ui.users.Login [line:39] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-11 10:16:38 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 10:19:14 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 10:43:06 ui.users.Login [line:39] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-11 10:43:12 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 10:43:17 service.DbService [line:199] 
+INFO [AWT-EventQueue-0] 0064acec2e7c483abc30e902b3ccd584
+2015-03-11 10:43:57 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 10:44:07 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 10:44:09 service.DbService [line:199] 
+INFO [AWT-EventQueue-0] cd7133d7f4914675a2abbebc0c537129
+2015-03-11 11:51:13 service.DbService [line:62] 
+ERROR[AWT-EventQueue-0] 数据连接初始化失败，失败信息:Listener refused the connection with the following error:
+ORA-12505, TNS:listener does not currently know of SID given in connect descriptor
+The Connection descriptor used by the client was:
+127.0.0.1:1521:XE
+
+2015-03-11 11:51:13 service.DbService [line:66] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 11:52:02 service.DbService [line:66] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 11:52:37 service.DbService [line:66] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 11:52:50 service.DbService [line:66] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 11:52:59 service.DbService [line:66] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 11:54:16 service.DbService [line:66] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 11:54:23 service.DbService [line:66] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 12:13:26 service.DbService [line:66] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 12:13:31 service.DbService [line:66] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 12:37:54 service.DbService [line:66] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 12:39:15 service.DbService [line:66] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 12:41:04 service.DbService [line:66] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 12:42:35 service.DbService [line:66] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 12:44:44 service.DbService [line:66] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 16:47:55 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 16:48:07 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 16:48:31 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 17:12:53 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 17:13:04 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 17:13:16 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 17:22:17 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 17:22:20 service.DbService [line:155] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：无效的列索引
+2015-03-11 17:22:21 service.DbService [line:155] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：无效的列索引
+2015-03-11 17:22:22 service.DbService [line:155] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：无效的列索引
+2015-03-11 17:22:22 service.DbService [line:155] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：无效的列索引
+2015-03-11 17:22:43 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 17:23:20 service.DbService [line:155] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：无效的列索引
+2015-03-11 17:23:59 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 17:24:02 service.DbService [line:155] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：ORA-00933: SQL 命令未正确结束
+
+2015-03-11 17:24:19 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 17:26:07 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 17:26:18 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 17:29:05 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 17:29:45 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 17:31:01 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 17:31:23 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 17:31:34 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-11 17:32:40 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 08:20:48 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 08:21:10 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 08:25:22 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 08:26:13 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 08:27:07 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 08:27:43 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 08:28:08 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 08:35:16 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 08:35:36 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 08:36:32 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 08:38:04 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 08:39:56 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 08:47:08 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 08:50:16 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 08:52:49 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 08:59:29 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 09:00:13 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 09:03:01 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 09:11:32 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 09:12:01 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 09:13:20 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 09:23:28 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 09:30:46 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 09:31:09 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 09:35:52 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 09:37:30 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 09:38:58 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 09:44:34 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 09:51:20 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 09:51:41 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 09:55:30 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 09:56:50 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 09:58:00 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:00:03 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:00:21 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:00:55 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:01:21 service.DbService [line:191] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：索引中丢失  IN 或 OUT 参数:: 1
+2015-03-12 10:03:17 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:03:57 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:04:14 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:06:11 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:15:02 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:15:11 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:15:42 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:15:49 service.DbService [line:280] 
+INFO [AWT-EventQueue-0] 01da0d9015a7423ab583748c38e2383d
+2015-03-12 10:15:58 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:16:06 service.DbService [line:280] 
+INFO [AWT-EventQueue-0] 01da0d9015a7423ab583748c38e2383d
+2015-03-12 10:16:52 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:16:56 service.DbService [line:280] 
+INFO [AWT-EventQueue-0] a4f1bd35a635489891c0d1ab6d691777
+2015-03-12 10:16:57 service.DbService [line:280] 
+INFO [AWT-EventQueue-0] a4f1bd35a635489891c0d1ab6d691777
+2015-03-12 10:16:58 service.DbService [line:280] 
+INFO [AWT-EventQueue-0] a4f1bd35a635489891c0d1ab6d691777
+2015-03-12 10:16:59 service.DbService [line:280] 
+INFO [AWT-EventQueue-0] a4f1bd35a635489891c0d1ab6d691777
+2015-03-12 10:16:59 service.DbService [line:280] 
+INFO [AWT-EventQueue-0] a4f1bd35a635489891c0d1ab6d691777
+2015-03-12 10:16:59 service.DbService [line:280] 
+INFO [AWT-EventQueue-0] a4f1bd35a635489891c0d1ab6d691777
+2015-03-12 10:16:59 service.DbService [line:280] 
+INFO [AWT-EventQueue-0] a4f1bd35a635489891c0d1ab6d691777
+2015-03-12 10:17:00 service.DbService [line:280] 
+INFO [AWT-EventQueue-0] a4f1bd35a635489891c0d1ab6d691777
+2015-03-12 10:17:00 service.DbService [line:280] 
+INFO [AWT-EventQueue-0] a4f1bd35a635489891c0d1ab6d691777
+2015-03-12 10:17:00 service.DbService [line:280] 
+INFO [AWT-EventQueue-0] a4f1bd35a635489891c0d1ab6d691777
+2015-03-12 10:17:00 service.DbService [line:280] 
+INFO [AWT-EventQueue-0] a4f1bd35a635489891c0d1ab6d691777
+2015-03-12 10:17:00 service.DbService [line:280] 
+INFO [AWT-EventQueue-0] a4f1bd35a635489891c0d1ab6d691777
+2015-03-12 10:17:00 service.DbService [line:280] 
+INFO [AWT-EventQueue-0] a4f1bd35a635489891c0d1ab6d691777
+2015-03-12 10:17:01 service.DbService [line:280] 
+INFO [AWT-EventQueue-0] a4f1bd35a635489891c0d1ab6d691777
+2015-03-12 10:17:09 service.DbService [line:280] 
+INFO [AWT-EventQueue-0] 0064acec2e7c483abc30e902b3ccd584
+2015-03-12 10:17:15 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:17:19 service.DbService [line:280] 
+INFO [AWT-EventQueue-0] 0064acec2e7c483abc30e902b3ccd584
+2015-03-12 10:17:53 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:18:06 service.DbService [line:280] 
+INFO [AWT-EventQueue-0] a4f1bd35a635489891c0d1ab6d691777
+2015-03-12 10:18:30 service.DbService [line:280] 
+INFO [AWT-EventQueue-0] a4f1bd35a635489891c0d1ab6d691777
+2015-03-12 10:19:04 service.DbService [line:68] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:19:14 service.DbService [line:280] 
+INFO [AWT-EventQueue-0] 01da0d9015a7423ab583748c38e2383d
+2015-03-12 10:20:02 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:20:30 service.DbService [line:280] 
+INFO [AWT-EventQueue-0] 01da0d9015a7423ab583748c38e2383d
+2015-03-12 10:21:01 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:21:05 service.DbService [line:280] 
+INFO [AWT-EventQueue-0] 0064acec2e7c483abc30e902b3ccd584
+2015-03-12 10:22:08 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:22:19 service.DbService [line:280] 
+INFO [AWT-EventQueue-0] a4f1bd35a635489891c0d1ab6d691777
+2015-03-12 10:24:11 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:24:15 service.DbService [line:280] 
+INFO [AWT-EventQueue-0] a4f1bd35a635489891c0d1ab6d691777
+2015-03-12 10:24:30 service.DbService [line:280] 
+INFO [AWT-EventQueue-0] a4f1bd35a635489891c0d1ab6d691777
+2015-03-12 10:39:24 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:39:24 service.DbService [line:190] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：索引中丢失  IN 或 OUT 参数:: 1
+2015-03-12 10:39:44 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:40:16 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:41:11 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:41:48 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:41:59 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:42:24 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:44:59 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:46:30 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:49:14 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:51:23 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:52:32 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:54:04 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:56:03 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 10:56:23 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:05:21 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:05:24 service.DbService [line:192] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：ORA-00904: "TOCHAR": 标识符无效
+
+2015-03-12 11:06:00 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:06:21 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:06:50 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:07:43 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:08:25 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:09:27 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:09:57 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:13:24 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:14:30 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:19:32 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:20:08 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:21:27 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:25:54 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:26:25 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:27:18 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:29:51 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:30:14 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:30:31 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:31:15 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:33:22 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:33:35 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:35:34 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:36:22 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:36:32 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:38:43 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:40:29 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:42:25 service.DbService [line:63] 
+ERROR[AWT-EventQueue-0] 数据连接初始化失败，失败信息:Listener refused the connection with the following error:
+ORA-12505, TNS:listener does not currently know of SID given in connect descriptor
+The Connection descriptor used by the client was:
+127.0.0.1:1521:XE
+
+2015-03-12 11:42:25 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:42:36 service.DbService [line:63] 
+ERROR[AWT-EventQueue-0] 数据连接初始化失败，失败信息:Listener refused the connection with the following error:
+ORA-12505, TNS:listener does not currently know of SID given in connect descriptor
+The Connection descriptor used by the client was:
+127.0.0.1:1521:XE
+
+2015-03-12 11:42:36 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:42:49 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:45:38 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:46:09 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:46:19 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:46:52 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:46:59 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:50:28 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:53:57 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:54:29 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:54:58 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:55:11 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:55:48 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:57:02 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 11:57:45 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 12:30:05 ui.users.Login [line:38] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-12 12:30:16 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 12:30:42 ui.users.Login [line:38] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-12 12:30:48 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 12:31:43 ui.users.Login [line:38] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-12 12:31:48 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 12:32:59 ui.users.Login [line:38] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-12 12:33:03 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 12:33:29 ui.users.Login [line:38] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-12 12:33:35 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 12:35:58 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 12:36:25 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 12:36:54 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 12:38:15 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 12:38:27 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 12:38:59 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 12:41:19 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 12:43:58 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 12:44:04 ui.users.Login [line:38] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-12 12:44:12 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 12:47:54 ui.users.Login [line:38] 
+INFO [AWT-EventQueue-0] 物管MIS系统启动!
+2015-03-12 12:48:03 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 12:57:21 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 12:57:52 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 13:28:58 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 13:29:16 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 13:29:28 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 14:08:44 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 14:40:53 service.DbService [line:63] 
+ERROR[AWT-EventQueue-0] 数据连接初始化失败，失败信息:Listener refused the connection with the following error:
+ORA-12505, TNS:listener does not currently know of SID given in connect descriptor
+The Connection descriptor used by the client was:
+127.0.0.1:1521:XE
+
+2015-03-12 14:40:53 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 14:41:08 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 14:41:12 service.DbService [line:291] 
+INFO [AWT-EventQueue-0] 8356a39fe01d4e8aac55f79c445e46d0
+2015-03-12 14:42:52 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 14:44:22 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 14:45:49 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 14:46:36 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 14:47:33 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 14:47:57 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 15:20:58 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 15:27:34 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 15:27:40 service.DbService [line:291] 
+INFO [AWT-EventQueue-0] 1ee390517c944fc1b3a31fc5c2e5dbb9
+2015-03-12 15:28:21 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 15:28:25 service.DbService [line:291] 
+INFO [AWT-EventQueue-0] 7dbf05f4d39348288d17f4bf2f24b706
+2015-03-12 15:28:44 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 15:28:47 service.DbService [line:291] 
+INFO [AWT-EventQueue-0] cd7133d7f4914675a2abbebc0c537129
+2015-03-12 15:30:00 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 15:30:03 service.DbService [line:291] 
+INFO [AWT-EventQueue-0] 01da0d9015a7423ab583748c38e2383d
+2015-03-12 15:30:49 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 15:30:53 service.DbService [line:291] 
+INFO [AWT-EventQueue-0] a4f1bd35a635489891c0d1ab6d691777
+2015-03-12 15:31:16 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 15:31:20 service.DbService [line:291] 
+INFO [AWT-EventQueue-0] a4f1bd35a635489891c0d1ab6d691777
+2015-03-12 15:31:40 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 15:31:44 service.DbService [line:291] 
+INFO [AWT-EventQueue-0] 7dbf05f4d39348288d17f4bf2f24b706
+2015-03-12 15:32:04 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 15:32:09 service.DbService [line:291] 
+INFO [AWT-EventQueue-0] 1ee390517c944fc1b3a31fc5c2e5dbb9
+2015-03-12 15:32:16 service.DbService [line:291] 
+INFO [AWT-EventQueue-0] a4f1bd35a635489891c0d1ab6d691777
+2015-03-12 15:32:21 service.DbService [line:291] 
+INFO [AWT-EventQueue-0] 2db5720b73fb4316a097896afbb5bf6c
+2015-03-12 15:35:01 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 15:35:01 service.DbService [line:192] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：索引中丢失  IN 或 OUT 参数:: 1
+2015-03-12 15:35:14 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 15:35:17 service.DbService [line:291] 
+INFO [AWT-EventQueue-0] a4f1bd35a635489891c0d1ab6d691777
+2015-03-12 15:36:32 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 15:36:35 service.DbService [line:291] 
+INFO [AWT-EventQueue-0] cd7133d7f4914675a2abbebc0c537129
+2015-03-12 15:43:13 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 15:52:12 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-12 15:52:15 service.DbService [line:291] 
+INFO [AWT-EventQueue-0] a4f1bd35a635489891c0d1ab6d691777
+2015-03-12 16:03:09 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-13 10:09:24 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-13 10:09:24 service.DbService [line:192] 
+ERROR[AWT-EventQueue-0] 调用查询出错，出错信息：索引中丢失  IN 或 OUT 参数:: 1
+2015-03-13 10:09:29 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!
+2015-03-13 10:09:34 service.DbService [line:291] 
+INFO [AWT-EventQueue-0] 1ee390517c944fc1b3a31fc5c2e5dbb9
+2015-03-13 10:09:48 service.DbService [line:67] 
+INFO [AWT-EventQueue-0] 数据连接初始化成功!

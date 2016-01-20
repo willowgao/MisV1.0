@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<!-- ********************************************************************* -->
+<!-- Ant build script for SSJK-2.0 -->
+<!-- Version: $Id: build.xml,v 1.9 2015/02/13 09:02:48 gaochengliu Exp $  -->
+<!-- ********************************************************************* -->
+
+<project name="Mis" default="compile" basedir="./..">
+	<description>SSJK-0.1.3</description>
+
+	<!-- Set to use JDK 1.6 -->
+	<property name="build.compiler" value="javac1.6" />
+	<property environment="localEnv" />
+	<property name="computername" value="${localEnv.COMPUTERNAME}" />
+	<property name="jdkHome" value="${localEnv.JAVA_HOME}" />
+	<property name="jre" value="jre" />
+
+	<property name="project.name" value="Mis" />
+	<property name="project.title" value="Mis API" />
+	<property name="author" value="WuHan EAM" />
+	<property name="copyright" value="gaochengliu" />
+	<property name="version" value="0.0.1" />
+
+	<property name="Mis.projectDir" location="MisV1.0" />
+
+	<property name="classes.dir" location="${Mis.projectDir}/build/classes" />
+	<property name="dist.dir" location="${Mis.projectDir}/dist" />
+	<property name="temp.dir" location="${Mis.projectDir}/temp" />
+	<property name="runFile" value="${Mis.projectDir}/run.bat" />
+
+	<property name="project.libs" location="${Mis.projectDir}/lib" />
+	<property name="logFile" location="${Mis.projectDir}/src/log4j.properties" />
+	<property name="jdbcFile" location="${Mis.projectDir}/resources/jdbc.properties" />
+
+
+	<tstamp>
+		<format property="TODAY" pattern="yyyyMMdd" locale="cn" />
+	</tstamp>
+
+	<property name="filename" value="Mis-${version}.${TODAY}-${computername}" />
+	<property name="jarfile" value="run.jar" />
+	<property name="zipfile" value="${filename}.zip" />
+
+	<path id="base.path">
+		<fileset dir="${project.libs}">
+			<include name="**/*.jar" />
+		</fileset>
+	</path>
+
+	<pathconvert property="mf.class-path" pathsep=" ">
+		<mapper>
+			<chainedmapper>
+				<flattenmapper />
+				<globmapper from="*" to="lib/*" />
+			</chainedmapper>
+		</mapper>
+		<path refid="base.path" />
+	</pathconvert>
+
+	<!-- Init -->
+	<target name="init" description="init">
+		<delete dir="${dist.dir}" />
+		<delete dir="${classes.dir}" />
+		<mkdir dir="${dist.dir}" />
+		<mkdir dir="${classes.dir}" />
+	</target>
+
+	<!-- Clean -->
+	<target name="clean" description="clean-up">
+	</target>
+
+	<!-- Compile -->
+	<target name="compile" depends="init" description="Compiles the source code">
+		<copy todir="${classes.dir}">
+			<fileset dir="${Mis.projectDir}/resources">
+				<include name="**/*" />
+				<exclude name="*cvs/" />
+			</fileset> 
+			<fileset file="${logFile}" />
+		</copy>
+
+		<javac fork="true" debug="true" optimize="false" deprecation="false" source="1.6" target="1.6" srcdir="${Mis.projectDir}/src" destdir="${classes.dir}" includeAntRuntime="false">
+			<classpath>
+				<path refid="base.path" />
+			</classpath>
+		</javac>
+
+
+	</target>
+
+	<!-- Dist -->
+	<target name="package" depends="compile" description="Generates the client distribution file">
+		<delete file="${dist.dir}/${zipfile}" />
+		<delete dir="${temp.dir}" />
+		<mkdir dir="${temp.dir}" />
+
+		<jar destfile="${temp.dir}/${jarfile}">
+			<fileset dir="${classes.dir}" />
+
+			<manifest>
+				<attribute name="Manifest-Version" value="1.0" />
+				<attribute name="Main-Class" value="ui.users.Login" />
+				<attribute name="Class-Path" value=". ${mf.class-path}" />
+			</manifest>
+		</jar>
+
+		<copy todir="${temp.dir}">
+			<fileset dir="${jdkHome}">
+				<include name="${jre}/**" />
+			</fileset>
+		</copy>
+
+		<zip destfile="${dist.dir}/${zipfile}" update="true">
+			<fileset dir="${Mis.projectDir}">
+				<exclude name="/*.xml" />
+				<exclude name=".classpath" />
+				<exclude name=".project" />
+				<exclude name="/.settings/**" />
+				<exclude name="/temp/**" />
+				<exclude name="/build/**" />
+				<exclude name="/dist/**" />
+				<exclude name="/src/**" />
+			</fileset>
+			<fileset dir="${temp.dir}" />
+		</zip>
+	</target>
+
+</project>
